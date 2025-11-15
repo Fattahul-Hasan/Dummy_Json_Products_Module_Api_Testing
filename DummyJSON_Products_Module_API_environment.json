@@ -1,0 +1,15 @@
+{
+	"id": "fecd1072-abce-4aba-babf-e1906662443a",
+	"name": "DummyJson_Products",
+	"values": [
+		{
+			"key": "Base_Url",
+			"value": "https://dummyjson.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-11-04T19:05:55.798Z",
+	"_postman_exported_using": "Postman/11.70.0"
+}
